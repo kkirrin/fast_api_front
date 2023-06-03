@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://ovz2.j57276638.pv29m.vps.myjino.ru'
